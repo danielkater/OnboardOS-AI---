@@ -8,6 +8,14 @@ __pycache__/
 .env
 .env.*
 !.env.example
+.envrc
+# Local credentials and private keys
+*.pem
+*.key
+credentials*.json
+secrets*.json
+.aws/
+.ssh/
 logs/
 .runtime.json
 test-results/
