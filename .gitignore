@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+*.sqlite3*
+.env
+.env.*
+!.env.example
+logs/
+.runtime.json
+test-results/
+playwright-report/
+.test-data/
+*.tsbuildinfo
